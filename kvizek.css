@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@700&display=swap');
+
+body {
+    background-image: url('albumhatter4-2.jpg');
+}
+table {
+    border: 2px solid rgba(241, 231, 231);
+    width: 95%;
+    margin: auto;
+    color: rgba(241, 231, 231);
+}
+.b {
+    font-family: 'Goldman', cursive;
+    text-transform: uppercase;
+    font-size: 25pt;
+}
+a {
+    font-family: 'Goldman', cursive;
+    color: lightblue;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover {
+    color: lightskyblue;
+    text-decoration: underline;
+}
+hr {
+    color: whitesmoke;
+    width: 75%;
+}
+.kezdooldalra {
+    text-align: center;
+    font-family: 'Goldman', cursive;
+    font-size: 25px;
+}
+p {
+    font-family: 'Goldman', cursive;
+    font-size: 15pt;
+    width: 65%;
+    margin: auto;
+}
